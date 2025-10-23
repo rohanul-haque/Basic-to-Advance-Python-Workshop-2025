@@ -8,6 +8,13 @@ covering everything from **beginner to advanced Python concepts**.
 
 ---
 
+
+![banner](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/565928334_748523171567435_8755242168031055305_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeHKIOIb6ilf3ZGX8rbX1HQ8TuzINMVqA2JO7Mg0xWoDYln7Pz82YHbq7HkNRDHIi_Sh6KZiQMoX1SaSRh9G6pjG&_nc_ohc=dYYQ_i88XCIQ7kNvwExlPC1&_nc_oc=AdkWBq6GmoDx8Vp-XH9qyvYkej1NVLwBAUlpXfE5mw5K6H7bjMYC8a6grRVbUYqM8S8&_nc_zt=23&_nc_ht=scontent.fdac157-1.fna&_nc_gid=xBEKFBPoR-a90ZiWYKMSFg&oh=00_AfdXNzrALMjsoeXxWI_XiFkgO6AjAtMTkaoXfIBh4_2n7A&oe=6900461E)
+
+---
+
+
+
 ## 💡 Workshop Overview
 
 This workshop is designed to help students **learn Python step by step**,  
