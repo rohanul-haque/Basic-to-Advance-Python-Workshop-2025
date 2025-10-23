@@ -3,28 +3,82 @@
 ### Organized by **TPI-CPC (Thakurgaon Polytechnic Institute – Computer & Programming Club)**  
 
 Welcome to the **Basic to Advance Python Workshop 2025** repository!  
-This repository contains all materials, codes, notes, and exercises from the workshop —  
-covering everything from beginner to advanced Python concepts.  
+This repository contains all **materials, code examples, notes, and exercises** from the workshop —  
+covering everything from **beginner to advanced Python concepts**.
 
 ---
 
 ## 💡 Workshop Overview
 
-This workshop is designed to help students **learn Python step by step** —  
-starting from the basics and gradually progressing to advanced topics and real-world projects.
+This workshop is designed to help students **learn Python step by step**,  
+starting from the basics and progressing to advanced topics and **real-world projects**.  
+By the end of this workshop, participants will have a **solid foundation in Python programming** and practical skills for real-life applications.
 
 ---
 
-## 📘 Topics Covered
+## 📘 Workshop Topics (Day-wise)
 
-- **Python Basics:** Syntax, Variables, Data Types  
-- **Control Flow:** `if-else` statements, loops  
-- **Functions & Modules**  
-- **File Handling & Exception Management**  
-- **Object-Oriented Programming (OOP)**  
-- **Data Structures:** List, Tuple, Set, Dictionary  
-- **Projects & Assignments**  
-- **Bonus:** Introduction to popular libraries (NumPy, Pandas, Tkinter)  
+### 🌟 Day 1 – Introduction & Basics
+- What is Python and why it’s popular  
+- Installing Python and setting up VS Code  
+- Writing and running your first program  
+- Variables and Data Types (`int`, `float`, `str`, `bool`)  
+- Input and Output operations  
+- Type Conversion  
+
+### 🌟 Day 2 – Operators & Conditional Logic
+- Arithmetic, Comparison, and Logical Operators  
+- Conditional statements: `if`, `elif`, `else`  
+- Nested conditions  
+- Real-life decision-making with Python  
+
+### 🌟 Day 3 – Loops & Iterations
+- `for` and `while` loops  
+- Loop control statements: `break`, `continue`, `pass`  
+- Using `range()`  
+- Iterating over strings and lists  
+
+### 🌟 Day 4 – Functions & Modules
+- Defining and calling functions  
+- Parameters and return values  
+- Default arguments  
+- Built-in modules (`math`, `random`, `datetime`)  
+- Importing and creating custom modules  
+
+### 🌟 Day 5 – Data Structures
+- Lists: operations and slicing  
+- Tuples and immutability  
+- Sets and set operations  
+- Dictionaries and key–value pairs  
+- Looping through collections  
+
+### 🌟 Day 6 – File Handling & Exception Handling
+- Opening, reading, writing, and appending files  
+- File modes (`r`, `w`, `a`)  
+- Working with text files  
+- Handling errors using `try`, `except`, `finally`  
+- Best practices in exception handling  
+
+### 🌟 Day 7 – Object-Oriented Programming
+- Classes and Objects  
+- Attributes and Methods  
+- The `__init__` method  
+- Inheritance and Polymorphism basics  
+- Applying OOP in practical examples  
+
+### 🌟 Day 8 – Final Project
+- Building a complete real-world project  
+- Applying all learned concepts together  
+- Structuring a Python project properly  
+- Writing clean, modular, and reusable code  
+- Presenting and reviewing the final project  
+
+### 🌟 Day 9 – Career Guidelines & Next Steps
+- Python career paths: Web Development, Data Science, Automation, AI/ML, etc.  
+- How to build a strong portfolio and GitHub profile  
+- Writing a professional CV and cover letter  
+- Freelancing and remote work guidance  
+- Roadmap for advanced learning after this course
 
 ---
 
@@ -41,8 +95,7 @@ starting from the basics and gradually progressing to advanced topics and real-w
 ## 🎯 Workshop Goals
 
 - Build a **strong foundation** in Python programming  
-- Gain **hands-on coding experience**  
-- Prepare for **real-world projects** and programming contests  
-- Strengthen **logical thinking** and **problem-solving skills**
-
----
+- Gain **hands-on coding experience** through exercises and projects  
+- Learn to **apply Python in real-world scenarios**  
+- Develop **logical thinking** and **problem-solving skills**  
+- Prepare for **advanced Python learning and professional projects**
