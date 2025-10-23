@@ -26,6 +26,15 @@ starting from the very basics and gradually moving toward advanced topics and re
 
 ---
 
+## 👨‍🏫 Instructor
+
+| Name | Role | Contact | Links |
+|------|------|----------|--------|
+| **Rohan** | Python Instructor & Developer | 📧 [rohan@example.com](mailto:rohan@example.com) | 🌐 [GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile) |
+
+
+---
+
 ## 🎯 Workshop Goals
 
 - Build a strong foundation in Python programming  
